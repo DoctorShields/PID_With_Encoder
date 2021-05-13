@@ -1,1 +1,3 @@
-# PID_With_Encoder
+# PID With Encoder
+
+![pid](images/pid.jpg)
